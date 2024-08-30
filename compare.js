@@ -1,2 +1,11 @@
-// console .log(6>65);
-console .log(6>5);
+console .log(10<10);
+console .log(10>10);
+console .log(10==10);
+console .log(10<=10);
+console .log(10!=10);
+console .log(10>=10);
+console .log(10===10);
+console .log(10==='10');
+console .log(10===10);
+console .log(10!==10.10);
+console .log(10!=='10');
